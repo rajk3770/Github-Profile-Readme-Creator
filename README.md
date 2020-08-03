@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/images/person.ico"  align="center" height="50"/>
+</p>
 
 <h1 align="center"> Github Profile Readme Creator </h1>
 <p align="center">
@@ -24,3 +27,5 @@ to your visitors.
 * Monitor hits on your profile by `Profile Views`.
 * Get Stats for your github profile such as `Total Stars`, `Total Commits`, `Total Pull Requests` and many more.
 * Get distribution on various programming languages used by you.
+
+## Screenshots
