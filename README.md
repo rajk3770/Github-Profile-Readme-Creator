@@ -18,9 +18,9 @@ to your visitors.
 6. Congratulations! Your profile should be visible with a readme.md file now.
 
 ## Features
-1. Displays Basic information in user-friendly way.
-2. Badges for all social media links and portfolio.
-3. Direct link to Resume.
-4. Monitor hits on your profile by `Profile Views`.
-5. Get Stats for your github profile such as `Total Stars`, `Total Commits`, `Total Pull Requests` and many more.
-6. Get distribution on various programming languages used by you.
+* Displays Basic information in user-friendly way.
+* Badges for all social media links and portfolio.
+* Direct link to Resume.
+* Monitor hits on your profile by `Profile Views`.
+* Get Stats for your github profile such as `Total Stars`, `Total Commits`, `Total Pull Requests` and many more.
+* Get distribution on various programming languages used by you.
