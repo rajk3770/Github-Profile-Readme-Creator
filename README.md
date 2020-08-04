@@ -39,11 +39,11 @@ to your visitors.
 * Get distribution on various programming languages used by you.
 
 ## Screenshots
-<img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="800"/>
-<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Laptop%20Design.png" style="border:5px solid #fff"/>
+<kbd><img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="800"/></kbd>
+<kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Laptop%20Design.png" style="border:5px solid #fff"/></kbd>
 
 ## Demo Output
-<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo%20Output.png" style="border:5px solid #fff"/>
+<kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo%20Output.png" style="border:5px solid #fff"/></kbd>
 
 ## Contributions
 Contributions are welcomed! <3 <br/>
