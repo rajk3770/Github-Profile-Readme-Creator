@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center"> Github Profile Readme Creator </h1>
+
+<h4 align="center">Create a README.md file for your profile in a minute!<br/></h4>
 <p align="center">
-Create a README.md file for your profile in a minute!<br/> 
 The website for this source code is deployed <a href="https://github-profile-readme-creator.web.app">
 here.</a>
 <br/>
