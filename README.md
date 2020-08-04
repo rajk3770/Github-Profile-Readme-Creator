@@ -40,6 +40,7 @@ to your visitors.
 
 ## Screenshots
 <kbd><img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="800"/></kbd>
+</br></br>
 <kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Laptop%20Design.png" style="border:5px solid #fff"/></kbd>
 
 ## Demo Output
