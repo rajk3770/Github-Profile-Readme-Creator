@@ -9,9 +9,18 @@
 The website for this source code is deployed <a href="https://github-profile-readme-creator.web.app">
 here.</a>
 <br/>
-:star: Star us on GitHub — it helps!
-<!-- Don't forget to <b>Star</b> this repository if it helped you to create your readme file. -->
-</p><br/>
+:star: Star us on GitHub — it helps!<br/>
+ </p>
+ <p align="center">
+  <a href="#steps-to-create-readmemd-for-your-own-profile">Usage</a> •
+  <a href="#features">Features</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#demo-output">Demo Output</a> •
+  <a href="#contributions">Contribute</a>
+</p>
+<br/>
+
+---
 
 ## Steps to create readme.md for your own profile
 1. Login to your Github account and create a new public repository with the same name as your username.
@@ -36,3 +45,7 @@ to your visitors.
 
 ## Demo Output
 <img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo%20Output.png" style="border:5px solid #fff"/>
+
+## Contributions
+Contributions are welcomed! <3 <br/>
+Open an issue or a pull request to contribute.
