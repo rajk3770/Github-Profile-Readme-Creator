@@ -8,7 +8,8 @@ Create a README.md file for your profile in a minute!<br/>
 The website for this source code is deployed <a href="https://github-profile-readme-creator.web.app">
 here.</a>
 <br/>
-Don't forget to <b>Star</b> this repository if it helped you to create your readme file.
+:star: Star us on GitHub — it helps!
+<!-- Don't forget to <b>Star</b> this repository if it helped you to create your readme file. -->
 </p><br/>
 
 ## Steps to create readme.md for your own profile
@@ -29,5 +30,8 @@ to your visitors.
 * Get distribution on various programming languages used by you.
 
 ## Screenshots
-<img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="1000"/>
+<img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="800"/>
 <img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Laptop%20Design.png" style="border:5px solid #fff"/>
+
+## Demo Output
+<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo%20Output.png" style="border:5px solid #fff"/>
