@@ -18,7 +18,6 @@ here.</a>
   <a href="#demo-output">Demo Output</a> •
   <a href="#contributions">Contribute</a>
 </p>
-<br/>
 
 ---
 
