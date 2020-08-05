@@ -12,11 +12,7 @@ here.</a>
 :star: Star us on GitHub — it helps!<br/>
  </p>
  <p align="center">
-<<<<<<< HEAD
-  <a href="#steps-to-create-readmemd-for-your-own-profile">Usage</a> •
-=======
   <a href="#usage">Usage</a> •
->>>>>>> c626860acd019cc58e5580f2c73beb89ce4f3750
   <a href="#features">Features</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#demo-output">Demo Output</a> •
@@ -25,15 +21,9 @@ here.</a>
 
 ---
 
-<<<<<<< HEAD
 ![Demo](https://drive.google.com/file/d/1GdjKkz2sNw_xty4awrT-dVosyXx-mzZc/view?usp=sharing)
 
 ## Steps to create readme.md for your own profile
-=======
-<embed src="https://drive.google.com/file/d/1GdjKkz2sNw_xty4awrT-dVosyXx-mzZc/view?usp=sharing"></embed>
-
-## Usage
->>>>>>> c626860acd019cc58e5580f2c73beb89ce4f3750
 1. Login to your Github account and create a new public repository with the same name as your username.
 2. Initialize this repository with a readme.md file which would then be visible on your home page.
 3. Open the website deployed using the above source code by clicking [<u>here</u>](https://github-profile-readme-creator.web.app) and fill in the details you want to display
@@ -43,15 +33,9 @@ to your visitors.
 6. Congratulations! Your profile should be visible with a readme.md file now.
 
 ## Features
-<<<<<<< HEAD
-* Displays Basic information in user-friendly way.
-* Badges for all social media links and portfolio.
-* Direct link to Resume.
-=======
 * Displays Basic information in user-friendly and intutitve way.
 * Badges for all social media links and portfolio.
 * Link your Resume to your Github Profile.
->>>>>>> c626860acd019cc58e5580f2c73beb89ce4f3750
 * Monitor hits on your profile by `Profile Views`.
 * Get Stats for your github profile such as `Total Stars`, `Total Commits`, `Total Pull Requests` and many more.
 * Get distribution on various programming languages used by you.
