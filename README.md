@@ -21,9 +21,9 @@ here.</a>
 
 ---
 
-![Demo](https://drive.google.com/file/d/1GdjKkz2sNw_xty4awrT-dVosyXx-mzZc/view?usp=sharing)
+![Demo](https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo.gif)
 
-## Steps to create readme.md for your own profile
+## Usage
 1. Login to your Github account and create a new public repository with the same name as your username.
 2. Initialize this repository with a readme.md file which would then be visible on your home page.
 3. Open the website deployed using the above source code by clicking [<u>here</u>](https://github-profile-readme-creator.web.app) and fill in the details you want to display
