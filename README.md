@@ -9,7 +9,7 @@
 The website for this source code is deployed <a href="https://github-profile-readme-creator.web.app">
 here.</a>
 <br/>
-:star: Star us on GitHub — it helps!<br/>
+:star: Star me on GitHub — it helps!<br/>
  </p>
  <p align="center">
   <a href="#usage">Usage</a> •
@@ -48,7 +48,7 @@ to your visitors.
 <kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Laptop%20Design.png" style="border:5px solid #fff"/></kbd>
 
 ## Demo Output
-<kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo%20Output.png" style="border:5px solid #fff"/></kbd>
+<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo%20Output.png" style="border:5px solid #fff"/>
 
 ## Contributions
 Contributions are welcomed! <3 <br/>
