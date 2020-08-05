@@ -40,7 +40,7 @@ to your visitors.
 * Get distribution on various programming languages used by you.
 
 ## Demo
-![Demo](https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo.gif)
+<kbd>![Demo](https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo.gif)</kbd>
 
 ## Screenshots
 <kbd><img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="400"/></kbd>
