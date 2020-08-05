@@ -20,6 +20,10 @@ here.</a>
 </p>
 
 ---
+<video width="320" height="240" controls>
+  <source src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Steps to create readme.md for your own profile
 1. Login to your Github account and create a new public repository with the same name as your username.
