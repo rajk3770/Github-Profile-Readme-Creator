@@ -48,7 +48,7 @@ to your visitors.
 <kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Laptop%20Design.png" style="border:5px solid #fff"/></kbd>
 
 ## Demo Output
-<kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo%20Output.png" style="border:5px solid #fff"/></kbd>
+<kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Profile.png" style="border:5px solid #fff"/></kbd>
 
 ## Contributions
 Contributions are welcomed! <3 <br/>
