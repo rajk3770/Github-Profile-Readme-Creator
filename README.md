@@ -3,17 +3,18 @@
 </p>
 
 <h1 align="center"> Github Profile Readme Creator </h1>
-
-<h4 align="center">Create a README.md file for your profile in a minute!<br/></h4>
+<h4 align="center">Create a README.md file for your profile in less than a minute!<br/></h4>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=rajk3770-github-profile-readme-creator alt=rajk3770 /> </p>
 <p align="center">
 The website for this source code is deployed <a href="https://github-profile-readme-creator.web.app">
 here.</a>
 <br/>
-:star: Star us on GitHub — it helps!<br/>
+:star: Star me on GitHub — It helps!<br/>
  </p>
  <p align="center">
   <a href="#usage">Usage</a> •
   <a href="#features">Features</a> •
+  <a href="#demo">Demo</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#demo-output">Demo Output</a> •
   <a href="#contributions">Contribute</a>
@@ -21,9 +22,7 @@ here.</a>
 
 ---
 
-![Demo](https://drive.google.com/file/d/1GdjKkz2sNw_xty4awrT-dVosyXx-mzZc/view?usp=sharing)
-
-## Steps to create readme.md for your own profile
+## Usage
 1. Login to your Github account and create a new public repository with the same name as your username.
 2. Initialize this repository with a readme.md file which would then be visible on your home page.
 3. Open the website deployed using the above source code by clicking [<u>here</u>](https://github-profile-readme-creator.web.app) and fill in the details you want to display
@@ -40,8 +39,11 @@ to your visitors.
 * Get Stats for your github profile such as `Total Stars`, `Total Commits`, `Total Pull Requests` and many more.
 * Get distribution on various programming languages used by you.
 
+## Demo
+<kbd>![Demo](https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Demo.gif)</kbd>
+
 ## Screenshots
-<kbd><img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="800"/></kbd>
+<kbd><img style="border: 5px solid black;" src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Mobile%20Design.jpg"  height="400"/></kbd>
 </br></br>
 <kbd><img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/blob/master/screenshots/Laptop%20Design.png" style="border:5px solid #fff"/></kbd>
 
