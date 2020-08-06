@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center"> Github Profile Readme Creator </h1>
-
-<h4 align="center">Create a README.md file for your profile in a minute!<br/></h4>
+<h4 align="center">Create a README.md file for your profile in less than a minute!<br/></h4>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=rajk3770 alt=rajk3770 /> </p>
 <p align="center">
 The website for this source code is deployed <a href="https://github-profile-readme-creator.web.app">
 here.</a>
