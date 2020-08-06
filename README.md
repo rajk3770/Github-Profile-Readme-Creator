@@ -9,7 +9,7 @@
 The website for this source code is deployed <a href="https://github-profile-readme-creator.web.app">
 here.</a>
 <br/>
-:star: Star me on GitHub — it helps!<br/>
+:star: Star me on GitHub — It helps!<br/>
  </p>
  <p align="center">
   <a href="#usage">Usage</a> •
